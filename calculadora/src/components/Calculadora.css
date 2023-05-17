@@ -1,0 +1,14 @@
+button{
+    font-size: 30px;
+    width: 25%;
+}
+
+.Calculadora{
+    background-color: darkgray;
+    width: 200px;
+    height: 400px;
+}
+
+.limpar{
+    width: 100%;
+}
